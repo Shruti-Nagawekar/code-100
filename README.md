@@ -11,5 +11,5 @@ Day 1(10/3/21):
 5. Found out node.js is not a programming language
 
 Day 2(10/4/21):
-1. Tried to migrate Angela's app from a depreciated version of Android embedding to V2 embedding, instead got 8 new errors
-2. Added buttons to the bead app
+1. Tried to migrate Angela's app from a depreciated version of Android embedding to V2 embedding, instead got 8 new errors, AMAZING!
+2. Added counter buttons and alligned them in the mid axis of the body (beads)
