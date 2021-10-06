@@ -17,3 +17,6 @@ Day 2(10/4/21):
 Day3(10/5/21):
 1. Worked on the backened stuff of the button for beads. (got 22 errors brought them down to 16)
 2. Stared at StackOverFlow
+
+DAy3(10/4/21):
+1. Successfull got rid of all the errors and things are up and running. Woohoo (beads)
